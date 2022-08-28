@@ -4,6 +4,7 @@ Hi! A very warm welcome to the ML Study Jams 2022. This is a repository for all 
 
 ## Files
 The files are divided into seperate weekly folders and you can access weekly session resources there.
+Download the pdf file to view the notes for the session.
 
 ## Roadmap
 
@@ -30,7 +31,7 @@ The roadmap for the event is as follows:
 
 ## Kaggle course links
 
-The Kaggle links are provided for each week are given within the folders themselves. Click on the `README.md` file in each sub folder for the links.
+The Kaggle links are provided in the roadmap above.
 
 ## Creating a Kaggle account
 
@@ -46,9 +47,7 @@ Joining Kaggle is a straightforward process that requires very little time and e
 
 ## Doubt-solving
 
-Although the main purpose of raising Issues in a repository is to report bugs and ask for fixes or new features, for our program we will use it to ask for help regarding course material.
-
-In order to effectively communicate and get your doubts solved, please use the `Issues` section for this repository. There, you can tag my GitHub account @diffrxction and I will try to cover your doubts within the same week. Please do not hesitate when asking for help.
+In order to effectively communicate and get your doubts solved, please use the `Discussions` section for this repository. There, you can ask questions and tag my GitHub account @diffrxction and I will try to cover your doubts within the same week. Please do not hesitate when asking for help.
 
 > "True guidance is like a small torch in a dark forest. It doesn't show everything once. But gives enough light for the next step to be safe." - Swami Vivekananda 
 
