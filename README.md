@@ -1,10 +1,11 @@
 # :star: Welcome to GDSC-TIU's ML Study Jams 2022! :star:
 
-Hi! A very warm welcome to the ML Study Jams 2022. This is a repository for all the resources that we will create and learn with during our ML Study Jams program. And this Markdown file will serve as a guide for you students to get familiar with the material as well as use the GitHub website to access resources and ask doubts here itself.
+Hi everyone! A very warm welcome to the ML Study Jams 2022. This is a repository for all the resources that we create and learn from during our ML Study Jams program. And this is a guide for you students to get familiar with the material as well as use the GitHub website to access resources and ask doubts here itself.
 
 ## Files
 The files are divided into seperate weekly folders and you can access weekly session resources there.
-Download the pdf file to view the notes for the session.
+
+Download or click on the pdf file to view the notes for the session.
 
 ## Roadmap
 
@@ -45,9 +46,11 @@ Joining Kaggle is a straightforward process that requires very little time and e
 
 **P.S. You will have to create a Kaggle account to complete the free courses and at the end of the program, please share your Kaggle profiles in a Google form that will be shared later on to guarantee your GDSC certifications**
 
-## Doubt-solving
+## Doubt solving and Discussions panel
 
 In order to effectively communicate and get your doubts solved, please use the `Discussions` section for this repository. There, you can ask questions and tag my GitHub account @diffrxction and I will try to cover your doubts within the same week. Please do not hesitate when asking for help.
+
+Here's the [link](https://github.com/dsc-tiu/MLStudyJams2022/discussions) to the Discussions panel and here's a [quick guide](https://github.com/dsc-tiu/MLStudyJams2022/discussions/2) on how to ask doubts and engage with fellow community members.
 
 > "True guidance is like a small torch in a dark forest. It doesn't show everything once. But gives enough light for the next step to be safe." - Swami Vivekananda 
 
