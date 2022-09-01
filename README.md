@@ -1,11 +1,14 @@
 # :star: Welcome to GDSC-TIU's ML Study Jams 2022! :star:
 
-Hi everyone! A very warm welcome to the ML Study Jams 2022. This is a repository for all the resources that we create and learn from during our ML Study Jams program. And this is a guide for you students to get familiar with the material as well as use the GitHub website to access resources and ask doubts here itself.
+Hi everyone! A very warm welcome to the ML Study Jams 2022. This is the repository for all the resources that we create and learn from during our ML Study Jams program. And this README is a guide for you students to get familiar with the material as well as use the GitHub website to access resources and ask doubts here itself.
 
 ## Files
-The files are divided into seperate weekly folders and you can access weekly session resources there.
+The files are divided into seperate weekly folders and you can access the session resources there.
 
 Download or click on the pdf file to view the notes for the session.
+
+- [Day 01](https://github.com/dsc-tiu/MLStudyJams2022/tree/main/Intro%20to%20ML%20Study%20Jams%20Day%201%20Material)
+- [Day 02](https://github.com/dsc-tiu/MLStudyJams2022/tree/main/ML%20Study%20Jams%20Day%2002%20Classification)
 
 ## Roadmap
 
@@ -80,3 +83,7 @@ You will get a certificate for each course that you complete and all the courses
 
 #### P.S.  In case you use this repository and any material here is of some help to you, it is a kind request to star it as that will help us grow and reach out to a larger audience group. :heart:
 Thank you. Happy learning :smiley:
+
+-----------
+
+Maintainer: Aryan Pareek [(@diffrxction)](https://github.com/diffrxction) , ML Lead, GDSC-TIU
