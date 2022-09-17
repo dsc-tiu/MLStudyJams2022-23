@@ -9,6 +9,8 @@ Download or click on the pdf file to view the notes for the session.
 
 - [Day 01](https://github.com/dsc-tiu/MLStudyJams2022/tree/main/Intro%20to%20ML%20Study%20Jams%20Day%201%20Material)
 - [Day 02](https://github.com/dsc-tiu/MLStudyJams2022/tree/main/ML%20Study%20Jams%20Day%2002%20Classification)
+- [Day 03](https://github.com/dsc-tiu/MLStudyJams2022/tree/main/ML%20Study%20Jams%20Day%2003%20ML%20Implementation%20and%20Accuracy%20Measures)
+- [Day 04](https://github.com/dsc-tiu/MLStudyJams2022/tree/main/ML%20Study%20Jams%20Day%2004%20Regression%20Implementation%20and%20Error%20Terminology)
 
 ## Roadmap
 
